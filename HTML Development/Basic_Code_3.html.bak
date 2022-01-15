@@ -94,7 +94,7 @@
 		<table width="75%" border="1">
 			
 			<tr>
-				<td colspan="2"><strong>My Expenses Lorem ipsum dolor sit amet, 
+				<td colspan="2" nowrap><strong>My Expenses Lorem ipsum dolor sit amet, 
 				consectetur adipiscing elit, sed do eiusmod tempor incididunt ut 
 				labore et dolore magna aliqua. Ut enim ad minim veniam, quis 
 				nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo 
