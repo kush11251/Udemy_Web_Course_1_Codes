@@ -51,7 +51,7 @@
 				
 			<tr>
 				<td>
-					<table width="500" border="1" 
+					<table width="50%" border="1" 
 							bordercolor="blue" cellspacing="2"
 							cellpadding="2">
 		
@@ -89,6 +89,30 @@
 				</td>
 			</tr>
 				
+		</table>
+		
+		<table width="50%" border="1">
+			
+			<tr>
+				<td><strong>My Expenses</strong></td>
+			</tr>
+			<tr>
+				<td>Month</td>
+				<td>Amount</td>
+			</tr>
+			<tr>
+				<td>January</td>
+				<td>50</td>
+			</tr>
+			<tr>
+				<td>February</td>
+				<td>150</td>
+			</tr>
+			<tr>
+				<td>Total: $200</td>
+				<td>Total: $200</td>
+			</tr>
+		
 		</table>
 		
 	</body>
