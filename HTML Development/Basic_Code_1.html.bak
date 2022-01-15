@@ -82,7 +82,25 @@ This Javascript function will capitalize my name
 	Your browser does not support the video tag.
 </video>
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Houston_night.jpg" 
+			alt="Absolute File Reference" style="width:200px;">
 
+<h1> Vacation Pictures with Links</h1>
+<p>
+
+	<a href="https://images.google.com/"><img src="../Extra_Resources/Images/img_1.jpg" width="300" height="250"></a>
+	<a href="https://images.google.com/"><img src="../Extra_Resources/Images/img_2.jpg" width="325" height="250"></a>
+	<a href="https://images.google.com/"><img src="../Extra_Resources/Images/img_3.jpg" width="350" height="250"></a>
+	<a href="https://images.google.com/"><img src="../Extra_Resources/Images/img_4.jpg" width="375" height="250"></a>
+	<a href="https://images.google.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Houston_night.jpg" 
+			width="400" height="250"></a>
+
+</p>
+
+<p> 
+	<a href="https://images.google.com/">Google Images Link </a><br>
+	<a href="https://images.google.com/">Google Images Link </a><br>
+</p>
 
 </body>
 
