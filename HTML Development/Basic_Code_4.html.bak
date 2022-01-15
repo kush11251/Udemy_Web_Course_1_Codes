@@ -35,7 +35,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td>Experience Level:</td>
+			<td nowrap>Experience Level:</td>
 			<td>
 				<select name="experience">
 					<option value="EL">Entry Level</option>
@@ -45,11 +45,15 @@
 			</td>
 		</tr>
 		<tr>
-			<td></td>
-			<td></td>
+			<td>Job Type:</td>
+			<td nowrap>
+				<input type="checkbox" name="ft" />Full-Time
+				<input type="checkbox" name="pt" />Part-Time
+				<input type="checkbox" name="ct" />Contact
+			</td>
 		</tr>
 		<tr>
-			<td></td>
+			<td nowrap>Employment Status:</td>
 			<td></td>
 		</tr>
 		<tr>
