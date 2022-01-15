@@ -54,7 +54,28 @@ This Javascript function will capitalize my name
 
 </ul>
 
+<h3> My Favorite Vacations </h3>
+<ol>
 
+	<li>Delhi</li>
+	<li>Ghaziabad</li>
+	<li>Lucknow</li>
+	<li>Chennai</li>
+	<li>Jammu</li>
+
+</ol>
+
+<h1> Vacation Pictures </h1>
+<p>
+
+	<img src="../Extra_Resources/Images/img_1.jpg" width="300" height="250">
+	<img src="../Extra_Resources/Images/img_2.jpeg" width="325" height="250">
+	<img src="img_3.jpeg" width="350" height="250">
+	<img src="img_4.jpeg" width="375" height="250">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Houston_night.jpg" 
+			width="400" height="250">
+
+</p>
 
 </body>
 
