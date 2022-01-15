@@ -26,7 +26,10 @@
 This Javascript function will capitalize my name
 <p>Enter your name: <input type="text" id="fname" onchange="myFunction()"></p>
 
-<p>This is line 1. <br> This is line 2.     This is line 3.</p>
+<p>This is line 1. <br> This is line 2. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is line 3.</p>
+
+<h1> Header 1 </h1>
+
 </body>
 
 </html>
