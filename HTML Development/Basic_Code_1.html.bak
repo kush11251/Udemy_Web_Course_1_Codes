@@ -69,13 +69,18 @@ This Javascript function will capitalize my name
 <p>
 
 	<img src="../Extra_Resources/Images/img_1.jpg" width="300" height="250">
-	<img src="../Extra_Resources/Images/img_2.jpeg" width="325" height="250">
-	<img src="img_3.jpeg" width="350" height="250">
-	<img src="img_4.jpeg" width="375" height="250">
+	<img src="../Extra_Resources/Images/img_2.jpg" width="325" height="250">
+	<img src="../Extra_Resources/Images/img_3.jpg" width="350" height="250">
+	<img src="../Extra_Resources/Images/img_4.jpg" width="375" height="250">
 	<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Houston_night.jpg" 
 			width="400" height="250">
 
 </p>
+
+<video width="100%" controls>
+	<source src="../Extra_Resources/Videos/vid_1.mp4" type="video/mp4">
+	Your browser does not support the video tag.
+</video>
 
 </body>
 
