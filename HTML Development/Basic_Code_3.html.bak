@@ -9,11 +9,39 @@
 
 	<body>
 	
-		<table width="100%" border="1" 
+		<table width="500" border="1" 
 			bordercolor="blue" cellspacing="2"
 			cellpadding="2">
 		
+			<tr>
+				<td><strong>Sport</strong></td>
+				<td><strong>Response</strong></td>
+			</tr>
 			
+			<tr>
+				<td>Basketball</td>
+				<td>25</td>
+			</tr>
+			
+			<tr>
+				<td>Hockey</td>
+				<td>15</td>
+			</tr>
+			
+			<tr>
+				<td>Cricket</td>
+				<td>35</td>
+			</tr>
+			
+			<tr>
+				<td>Football</td>
+				<td>20</td>
+			</tr>
+			
+			<tr>
+				<td>Other</td>
+				<td>10</td>
+			</tr>
 		
 		</table>
 	</body>
