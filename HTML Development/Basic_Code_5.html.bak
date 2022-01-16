@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+	<head>
+		<title>HTML iframe</title>
+	</head>
+	
+	<body>
+		<iframe src="https://www.yahoo.com/" width="100%" height="400" >
+			<p>Your Browser does not support iframe</p>
+		</iframe>
+		
+		<iframe src="https://www.bing.com/" width="100%" height="400" >
+			<p>Your Browser does not support iframe</p>
+		</iframe>
+	</body>
+</html>
